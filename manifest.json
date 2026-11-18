@@ -1,0 +1,17 @@
+{
+  "name": "A Little Sip of Love",
+  "short_name": "Sip of Love",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffe8f0",
+  "theme_color": "#ffe8f0",
+  "description": "A cute little water reminder made with love.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
