@@ -7,7 +7,7 @@ const countText = $("count");
 
 const messages = [
   "A little sip, please? I'm cheering for you 💗",
-  "Hydration break, Sweaty! Your water is waiting 💧",
+  "Hydration break, Sweety! Your water is waiting 💧",
   "Drink a little water for me? Pretty please 🥺",
   "Pause, take a sip, and come back glowing ✨",
   "Your reminder that you are loved — and need water too 💕"
